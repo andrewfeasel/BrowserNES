@@ -1,25 +1,13 @@
 body {
   font-family: monospace;
   text-align: center;
-  background-color: #000000;
-  color: #88E788;
 }
 
 pre {
   margin: 0;
   padding: 0;
-  color: #88E788;
 }
-button{
-  color: #88E788;
-  background-color: #000000
-  border-color: #88E788;
-}
-input{
-  background-color: #000000;
-  color: #88E788;
-  border-color: #88E788;
-}
+
 #log {
   font-family: monospace;
   max-height: 200px;
@@ -28,9 +16,10 @@ input{
   text-align: left;
   width: 512px;
   margin: auto;
-  border: 1px solid #88E788;
+  border: 1px solid #000000;
   padding: 5px;
-  background: #88E788;
+  background: #FFFFFF;
+  color: #000000;
 }
 
 #output {
