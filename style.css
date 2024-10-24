@@ -1,12 +1,14 @@
-
 body {
+  font-family: monospace;
   text-align: center;
-  background-color: #efefef;
+  background-color: #000000;
+  color: #88E788;
 }
 
 pre {
   margin: 0;
   padding: 0;
+  color: #88E788;
 }
 
 #log {
@@ -17,8 +19,9 @@ pre {
   text-align: left;
   width: 512px;
   margin: auto;
-  border: 1px solid #afafaf;
+  border: 1px solid #88E788;
   padding: 5px;
+  background: #88E788;
 }
 
 #output {
