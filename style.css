@@ -10,7 +10,16 @@ pre {
   padding: 0;
   color: #88E788;
 }
-
+button{
+  color: #88E788;
+  background-color: #000000
+  border-color: #88E788;
+}
+input{
+  background-color: #000000;
+  color: #88E788;
+  border-color: #88E788;
+}
 #log {
   font-family: monospace;
   max-height: 200px;
