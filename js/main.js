@@ -18,9 +18,9 @@ let controlsP1 = {
   arrowleft: nes.INPUT.LEFT,
   arrowdown: nes.INPUT.DOWN,
   arrowup: nes.INPUT.UP,
-  enter: nes.INPUT.START,
-  shift: nes.INPUT.SELECT,
-  a: nes.INPUT.B,
+  s: nes.INPUT.START,
+  a: nes.INPUT.SELECT,
+  x: nes.INPUT.B,
   z: nes.INPUT.A
 }
 let controlsP2 = {
