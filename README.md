@@ -1,2 +1,2 @@
-not owned by me. edit at own risk.
-also have fun playing games!!
+Not owned by me (@andrewfeasel).
+Also, have fun playing games!!
